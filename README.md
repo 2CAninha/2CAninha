@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá gente, meu nome é Ana Maria e estudo no Francisco Cristiano e estou no 2°ano do encino Médio 👋
 
 <!--
 **2CAninha/2CAninha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
